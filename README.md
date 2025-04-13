@@ -72,7 +72,7 @@ Try accessing the `return_value` identifier without prepending `$`.
 
 <details>
     <summary>You Answer</summary>
-    ......
+    Wird $ nicht verwendet, wird nur der Text ausgegeben. Um die Variable zu erhalten muss man dies mit $ kennzeichnen.
 </details>
 
 ### Task 3: Function-Identifiers
@@ -97,7 +97,8 @@ and pressing `enter`.
 
 <details>
     <summary>Calling a Function</summary>
-    Include a screenshot of your function-call!
+    ![image](https://github.com/user-attachments/assets/64168532-866b-49aa-adc1-39f2e6179f1a)
+
 </details>
 
 ### Task 4: Handling Parameters
@@ -301,7 +302,7 @@ cat ./function
 **What happend?**
 <details>
     <summary>Your Explaination</summary>
-    .....
+    Es werden beide Funktionen untereinander angezeigt.
 
 </details>
 
@@ -344,7 +345,7 @@ You can use a shorthand within your calls to add this string as a prefix to any 
 **Look at task 6 again. What is the complete filepath of your functions file?**
 <details>
     <summary>Your Answer</summary>
-    ....
+    /home/user-2812
 </details>
 
 All filenames start with a `/`. 
@@ -368,7 +369,7 @@ cd /
 **Run `ls` again and insert the content here:**
 <details>
     <summary>Your Answer</summary>
-    ....
+    bin bin.usr-is-merged boot dev etc home init lib lib.usr-is-merged lib64 lost+found media mnr opt proc root run sbin sbin.usr-is-merged snap srv sys tmp usr var
 </details>
 
 Now navigate through your filesystem using `cd` and the name of the directory you want to set as your new `pwd`.
@@ -385,7 +386,8 @@ Use `rm` to delete a file and `rm -rf` to delete a directory.
     <summary>Your Terminal Output</summary>
 ```bash
 your terminal output
-```
+![image](https://github.com/user-attachments/assets/fa549e1c-32c0-4abe-bbb9-d9411238bd86)
+
 </details>
 
 ### Task 10: Managing Software
